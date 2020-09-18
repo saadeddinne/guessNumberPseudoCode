@@ -40,13 +40,12 @@
 - \*\*/
 
 <p align="center">
-
-Print :--- Hello to the user and explain rules
-Input = choose level of difficulty
-set level
-if level == very easy
-set valRandom in [1 to 10]
-
+         Print :--- Hello to the user and explain rules 
+        Input = choose level of difficulty
+        set level
+        if level == very easy
+            set valRandom in [1 to 10]
+            
                 //loop
             do {
                 input = Ask user to give number
@@ -55,13 +54,12 @@ set valRandom in [1 to 10]
                 else if number < valRandom
                     Print Too smaller
                 else {
-                    Print : congratulatulation
+                    Print : congratulatulation 
                     Option : play again
                            :Exit
                 }
 
             } while number not equal to valRandom
-            //-- End if
 
         if level == Easy
                 set valRandom in [1 to 10]
