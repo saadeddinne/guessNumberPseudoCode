@@ -47,6 +47,12 @@
             set valRandom in [1 to 10]
             
                 //loop
+Print :--- Hello to the user and explain rules 
+        Input = choose level of difficulty
+        set level
+        if level == very easy
+            set valRandom in [1 to 10]
+            
             do {
                 input = Ask user to give number
                 if number > valRandom
