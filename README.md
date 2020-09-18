@@ -30,13 +30,13 @@
          <h1>
 Guessing Game Program Pseudocode Algorithm</h1>
             
-                //loop
+                //Start
         Print Hello to the user and explain rules 
         Input = choose level of difficulty
         set level
         if level == very easy
             set valRandom in [1 to 10]
-            
+            <!-- loop -->
             do {
                 input = Ask user to give number
                 if number > valRandom
