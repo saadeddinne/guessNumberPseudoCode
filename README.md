@@ -27,7 +27,8 @@
 ## :dart: About
 
 <p align="center">
-         This game will have to offer different options and guide the player throughout the game.
+         <h1>
+Guessing Game Program Pseudocode Algorithm</h1>
             
                 //loop
         Print Hello to the user and explain rules 
